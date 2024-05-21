@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Kokushibou97 did you know that this is not my actual name? lol
-- 👀 I’m interested in Artificial Intelligence and data.
-- 🌱 I’m currently learning....well, eveything.
-- 💞️ I’m looking to collaborate on data analysis projects.
-- 📫 How to reach me? www.linkedin.com/in/jessica-Najem-414896184
-- 😄 I'm passionate harfdworker, and disciplined. 
+- 👋 Hi, I’m @Kokushibou97, did you know that this is not my actual name? lol
+- 👀 I’m interested in Artificial Intelligence and data, QA and DevOps.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on data analysis projects; QA projects and DevOps.
+- 📫 How to reach me? www.linkedin.com/in/jessica-najem-sadi-414896184
+- 😄 I'm passionate, harddworker, and disciplined. 
 - ⚡ Fun fact: In high school, I was the only one in my class who had no idea how to use a computer properly.
 
 <!---
