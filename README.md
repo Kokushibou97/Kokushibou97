@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kokushibou97, did you know that this is not my actual name? lol
-- 👀 I’m interested in Artificial Intelligence and data, QA and DevOps.
+- 👀 I’m interested in data, QA and DevOps.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on data analysis projects; QA projects and DevOps.
 - 📫 How to reach me? www.linkedin.com/in/jessica-najem-sadi-414896184
